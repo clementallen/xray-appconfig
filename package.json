@@ -1,0 +1,23 @@
+{
+  "name": "xray-appconfig",
+  "version": "1.0.0",
+  "description": "Repo to reproduce error encountered when trying to use AWS XRay and AppConfig together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clementallen/xray-appconfig.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clementallen/xray-appconfig/issues"
+  },
+  "homepage": "https://github.com/clementallen/xray-appconfig#readme",
+  "dependencies": {
+    "aws-sdk": "^2.704.0",
+    "aws-xray-sdk": "^3.1.0"
+  }
+}
