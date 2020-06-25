@@ -4,6 +4,7 @@
   "description": "Repo to reproduce error encountered when trying to use AWS XRay and AppConfig together",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
